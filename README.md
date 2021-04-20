@@ -1,5 +1,5 @@
 # Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Ali Linares!
-![GitHub followers](https://img.shields.io/github/followers/alilinares?label=follow%20Me&style=social)
+[<img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png" alt="linkedin logo"/>](https://www.linkedin.com/in/ali-linares/) 
 ---
 #### *"An unexamined life is not worth living."  Socrates* 
 ---
