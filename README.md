@@ -1,8 +1,9 @@
 # Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Ali Linares!
 ![GitHub followers](https://img.shields.io/github/followers/alilinares?label=follow%20Me&style=social)
 ---
+#### *"An unexamined life is not worth living."  Socrates* 
+---
 ## About Me
-
 I love programming and web development. It brings me great satisfaction to solve challenges programmatically and advance web pages to shine and be interactive. In addition, I find enthusiasm in utilizing my technical skills and creativity to help others. 
 
 ---
