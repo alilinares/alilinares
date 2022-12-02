@@ -8,7 +8,9 @@ I love programming and web development. It brings me great satisfaction to solve
 
 ---
 ### 🧰 Toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width=80/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width=80/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width=70/><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width=80/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width=80/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width=90/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Python" width=90/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width=80/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width=80/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width=70/><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width=80/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width=80/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width=90/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C Plus Plus" width=90/>
+
 
 ----
 ### 📈 Github Stats
