@@ -4,7 +4,7 @@
 #### *"An unexamined life is not worth living."  Socrates* 
 ---
 ## About Me
-I love programming and web development. It brings me great satisfaction to solve challenges programmatically and advance web pages to shine and be interactive. In addition, I find enthusiasm in utilizing my technical skills and creativity to help others. 
+I'm a Software/Web Developer by trade. Interested in building software/web applications that solve real-world problems. Interested in collaborating with others on open-source products. 
 
 ---
 ### 🧰 Toolbox
